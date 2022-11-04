@@ -23,14 +23,14 @@ import {
         <Box>
           <Avatar
             src="https://i.scdn.co/image/ab6761610000e5eb96c4949ee078fbef5d5adb68"
-            sx={{ width: 100, height: 100 }}
+            sx={{ width: 240, height: 200 }}
           />
           <Typography variant="h2" sx={{ textAlign: "center", fontSize: "3rem" }}>
             Gojira
           </Typography>
           <List>
             <ListItem>
-              <ListItemButton component="a" href="/index">
+              <ListItemButton component="a" href="/">
                 <ListItemText primary={"Inicio"}></ListItemText>
               </ListItemButton>
             </ListItem>
