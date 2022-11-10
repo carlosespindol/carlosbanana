@@ -24,8 +24,12 @@
   color: white;
 }
 
+.MuiToolbar-root {
+  background-color: #000000;
+}
+
 .App-link {
-  color: #61dafb;
+  color: #000000;
 }
 
 @keyframes App-logo-spin {
